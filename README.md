@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm romofhjeroscott237
 
-<!--
-**romofhjeroscott237/romofhjeroscott237** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎹 🎯 🚣 🛹 Looking to collaborate on computer vision 🎹 🎯 🚣 🛹
 
-Here are some ideas to get you started:
+## About Me
+🎻 🎣 A hacker in full stack development 🎻 🎣
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🏑 🎸 Interested in frameworks 🏑 🎸
+
+### Fun Facts
+🚵 🎣 🛶 🎮 Dedicated to mastering data structures 🚵 🎣 🛶 🎮
+
+---
+🏸 🏑 🎣 🏑 🛼 Thanks for visiting my profile! 🎾 🎽 🏏 🛶 📚
